@@ -40,4 +40,4 @@ python3 -m src.main --month 2026-01
 ## 出力例
 
 以下のような請求書PDFが自動生成されます。
-![Invoice Sample](docs/invoice_sample.png)
+![Invoice Sample](docs/docs/invoice_sample.png)
